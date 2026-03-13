@@ -18,12 +18,12 @@ print(languages[0])
 #Output- python
 # QUESTION 7
 student= {
-  "Name":"Blessy",
-  "Age":23,
+  "Name":"Joy",
+  "Age":24,
   "Course":"AI"
 }
 print(student["Name"])
-#Output- Blessy
+#Output- Joy
 
 # Bonus question
 # Difference between a list and a dictionary.
